@@ -1,0 +1,731 @@
+[
+  {
+    "path": "sd_icon_app_acrobat.png",
+    "name": "Acrobat",
+    "tags": [
+      "pixel",
+      "application",
+      "acrobat"
+    ]
+  },
+  {
+    "path": "sd_icon_app_adobe_aftereffects.png",
+    "name": "Adobe Aftereffects",
+    "tags": [
+      "pixel",
+      "application",
+      "adobeaftereffects"
+    ]
+  },
+  {
+    "path": "sd_icon_app_adobe_illustrator.png",
+    "name": "Adobe Illustrator",
+    "tags": [
+      "pixel",
+      "application",
+      "adobeillustrator"
+    ]
+  },
+  {
+    "path": "sd_icon_app_adobe_photoshop.png",
+    "name": "Adobe Photoshop",
+    "tags": [
+      "pixel",
+      "application",
+      "adobephotoshop"
+    ]
+  },
+  {
+    "path": "sd_icon_app_adobe_premiere.png",
+    "name": "Adobe Premiere",
+    "tags": [
+      "pixel",
+      "application",
+      "adobepremiere"
+    ]
+  },
+  {
+    "path": "sd_icon_app_amazongames.png",
+    "name": "Amazongames",
+    "tags": [
+      "pixel",
+      "application",
+      "amazongames"
+    ]
+  },
+  {
+    "path": "sd_icon_app_amd.png",
+    "name": "Amd",
+    "tags": [
+      "pixel",
+      "application",
+      "amd"
+    ]
+  },
+  {
+    "path": "sd_icon_app_android.png",
+    "name": "Android",
+    "tags": [
+      "pixel",
+      "application",
+      "android"
+    ]
+  },
+  {
+    "path": "sd_icon_app_apple.png",
+    "name": "Apple",
+    "tags": [
+      "pixel",
+      "application",
+      "apple"
+    ]
+  },
+  {
+    "path": "sd_icon_app_application.png",
+    "name": "Application",
+    "tags": [
+      "pixel",
+      "application",
+      "application"
+    ]
+  },
+  {
+    "path": "sd_icon_app_battlenet.png",
+    "name": "Battlenet",
+    "tags": [
+      "pixel",
+      "application",
+      "battlenet"
+    ]
+  },
+  {
+    "path": "sd_icon_app_behance.png",
+    "name": "Behance",
+    "tags": [
+      "pixel",
+      "application",
+      "behance"
+    ]
+  },
+  {
+    "path": "sd_icon_app_calculator.png",
+    "name": "Calculator",
+    "tags": [
+      "pixel",
+      "application",
+      "calculator"
+    ]
+  },
+  {
+    "path": "sd_icon_app_capture.png",
+    "name": "Capture",
+    "tags": [
+      "pixel",
+      "application",
+      "capture"
+    ]
+  },
+  {
+    "path": "sd_icon_app_chat.png",
+    "name": "Chat",
+    "tags": [
+      "pixel",
+      "application",
+      "chat"
+    ]
+  },
+  {
+    "path": "sd_icon_app_chrome.png",
+    "name": "Chrome",
+    "tags": [
+      "pixel",
+      "application",
+      "chrome"
+    ]
+  },
+  {
+    "path": "sd_icon_app_deezer.png",
+    "name": "Deezer",
+    "tags": [
+      "pixel",
+      "application",
+      "deezer"
+    ]
+  },
+  {
+    "path": "sd_icon_app_discord.png",
+    "name": "Discord",
+    "tags": [
+      "pixel",
+      "application",
+      "discord"
+    ]
+  },
+  {
+    "path": "sd_icon_app_disney.png",
+    "name": "Disney",
+    "tags": [
+      "pixel",
+      "application",
+      "disney"
+    ]
+  },
+  {
+    "path": "sd_icon_app_duo.png",
+    "name": "Duo",
+    "tags": [
+      "pixel",
+      "application",
+      "duo"
+    ]
+  },
+  {
+    "path": "sd_icon_app_edge.png",
+    "name": "Edge",
+    "tags": [
+      "pixel",
+      "application",
+      "edge"
+    ]
+  },
+  {
+    "path": "sd_icon_app_elgato.png",
+    "name": "Elgato",
+    "tags": [
+      "pixel",
+      "application",
+      "elgato"
+    ]
+  },
+  {
+    "path": "sd_icon_app_epicgames.png",
+    "name": "Epicgames",
+    "tags": [
+      "pixel",
+      "application",
+      "epicgames"
+    ]
+  },
+  {
+    "path": "sd_icon_app_explorer.png",
+    "name": "Explorer",
+    "tags": [
+      "pixel",
+      "application",
+      "explorer"
+    ]
+  },
+  {
+    "path": "sd_icon_app_facebook.png",
+    "name": "Facebook",
+    "tags": [
+      "pixel",
+      "application",
+      "facebook"
+    ]
+  },
+  {
+    "path": "sd_icon_app_firefox.png",
+    "name": "Firefox",
+    "tags": [
+      "pixel",
+      "application",
+      "firefox"
+    ]
+  },
+  {
+    "path": "sd_icon_app_galery.png",
+    "name": "Galery",
+    "tags": [
+      "pixel",
+      "application",
+      "galery"
+    ]
+  },
+  {
+    "path": "sd_icon_app_game.png",
+    "name": "Game",
+    "tags": [
+      "pixel",
+      "application",
+      "game"
+    ]
+  },
+  {
+    "path": "sd_icon_app_gamecaster.png",
+    "name": "Gamecaster",
+    "tags": [
+      "pixel",
+      "application",
+      "gamecaster"
+    ]
+  },
+  {
+    "path": "sd_icon_app_geforce.png",
+    "name": "Geforce",
+    "tags": [
+      "pixel",
+      "application",
+      "geforce"
+    ]
+  },
+  {
+    "path": "sd_icon_app_ghub.png",
+    "name": "Ghub",
+    "tags": [
+      "pixel",
+      "application",
+      "ghub"
+    ]
+  },
+  {
+    "path": "sd_icon_app_gimp.png",
+    "name": "Gimp",
+    "tags": [
+      "pixel",
+      "application",
+      "gimp"
+    ]
+  },
+  {
+    "path": "sd_icon_app_gogcom.png",
+    "name": "Gogcom",
+    "tags": [
+      "pixel",
+      "application",
+      "gogcom"
+    ]
+  },
+  {
+    "path": "sd_icon_app_goggalaxy.png",
+    "name": "Goggalaxy",
+    "tags": [
+      "pixel",
+      "application",
+      "goggalaxy"
+    ]
+  },
+  {
+    "path": "sd_icon_app_hue.png",
+    "name": "Hue",
+    "tags": [
+      "pixel",
+      "application",
+      "hue"
+    ]
+  },
+  {
+    "path": "sd_icon_app_icue.png",
+    "name": "Icue",
+    "tags": [
+      "pixel",
+      "application",
+      "icue"
+    ]
+  },
+  {
+    "path": "sd_icon_app_instagram.png",
+    "name": "Instagram",
+    "tags": [
+      "pixel",
+      "application",
+      "instagram"
+    ]
+  },
+  {
+    "path": "sd_icon_app_intel.png",
+    "name": "Intel",
+    "tags": [
+      "pixel",
+      "application",
+      "intel"
+    ]
+  },
+  {
+    "path": "sd_icon_app_lightstream.png",
+    "name": "Lightstream",
+    "tags": [
+      "pixel",
+      "application",
+      "lightstream"
+    ]
+  },
+  {
+    "path": "sd_icon_app_logitech.png",
+    "name": "Logitech",
+    "tags": [
+      "pixel",
+      "application",
+      "logitech"
+    ]
+  },
+  {
+    "path": "sd_icon_app_mail.png",
+    "name": "Mail",
+    "tags": [
+      "pixel",
+      "application",
+      "mail"
+    ]
+  },
+  {
+    "path": "sd_icon_app_meet.png",
+    "name": "Meet",
+    "tags": [
+      "pixel",
+      "application",
+      "meet"
+    ]
+  },
+  {
+    "path": "sd_icon_app_melon.png",
+    "name": "Melon",
+    "tags": [
+      "pixel",
+      "application",
+      "melon"
+    ]
+  },
+  {
+    "path": "sd_icon_app_messanger.png",
+    "name": "Messanger",
+    "tags": [
+      "pixel",
+      "application",
+      "messanger"
+    ]
+  },
+  {
+    "path": "sd_icon_app_microphone.png",
+    "name": "Microphone",
+    "tags": [
+      "pixel",
+      "application",
+      "microphone"
+    ]
+  },
+  {
+    "path": "sd_icon_app_music.png",
+    "name": "Music",
+    "tags": [
+      "pixel",
+      "application",
+      "music"
+    ]
+  },
+  {
+    "path": "sd_icon_app_netflix.png",
+    "name": "Netflix",
+    "tags": [
+      "pixel",
+      "application",
+      "netflix"
+    ]
+  },
+  {
+    "path": "sd_icon_app_notepad.png",
+    "name": "Notepad",
+    "tags": [
+      "pixel",
+      "application",
+      "notepad"
+    ]
+  },
+  {
+    "path": "sd_icon_app_nvidia.png",
+    "name": "Nvidia",
+    "tags": [
+      "pixel",
+      "application",
+      "nvidia"
+    ]
+  },
+  {
+    "path": "sd_icon_app_obs.png",
+    "name": "Obs",
+    "tags": [
+      "pixel",
+      "application",
+      "obs"
+    ]
+  },
+  {
+    "path": "sd_icon_app_opera.png",
+    "name": "Opera",
+    "tags": [
+      "pixel",
+      "application",
+      "opera"
+    ]
+  },
+  {
+    "path": "sd_icon_app_origin.png",
+    "name": "Origin",
+    "tags": [
+      "pixel",
+      "application",
+      "origin"
+    ]
+  },
+  {
+    "path": "sd_icon_app_primevideo.png",
+    "name": "Primevideo",
+    "tags": [
+      "pixel",
+      "application",
+      "primevideo"
+    ]
+  },
+  {
+    "path": "sd_icon_app_radeon.png",
+    "name": "Radeon",
+    "tags": [
+      "pixel",
+      "application",
+      "radeon"
+    ]
+  },
+  {
+    "path": "sd_icon_app_reddit.png",
+    "name": "Reddit",
+    "tags": [
+      "pixel",
+      "application",
+      "reddit"
+    ]
+  },
+  {
+    "path": "sd_icon_app_riot.png",
+    "name": "Riot",
+    "tags": [
+      "pixel",
+      "application",
+      "riot"
+    ]
+  },
+  {
+    "path": "sd_icon_app_rockstar.png",
+    "name": "Rockstar",
+    "tags": [
+      "pixel",
+      "application",
+      "rockstar"
+    ]
+  },
+  {
+    "path": "sd_icon_app_rog.png",
+    "name": "Rog",
+    "tags": [
+      "pixel",
+      "application",
+      "rog"
+    ]
+  },
+  {
+    "path": "sd_icon_app_safari.png",
+    "name": "Safari",
+    "tags": [
+      "pixel",
+      "application",
+      "safari"
+    ]
+  },
+  {
+    "path": "sd_icon_app_shell.png",
+    "name": "Shell",
+    "tags": [
+      "pixel",
+      "application",
+      "shell"
+    ]
+  },
+  {
+    "path": "sd_icon_app_skype.png",
+    "name": "Skype",
+    "tags": [
+      "pixel",
+      "application",
+      "skype"
+    ]
+  },
+  {
+    "path": "sd_icon_app_slack.png",
+    "name": "Slack",
+    "tags": [
+      "pixel",
+      "application",
+      "slack"
+    ]
+  },
+  {
+    "path": "sd_icon_app_snapchat.png",
+    "name": "Snapchat",
+    "tags": [
+      "pixel",
+      "application",
+      "snapchat"
+    ]
+  },
+  {
+    "path": "sd_icon_app_spotify.png",
+    "name": "Spotify",
+    "tags": [
+      "pixel",
+      "application",
+      "spotify"
+    ]
+  },
+  {
+    "path": "sd_icon_app_steam.png",
+    "name": "Steam",
+    "tags": [
+      "pixel",
+      "application",
+      "steam"
+    ]
+  },
+  {
+    "path": "sd_icon_app_stream.png",
+    "name": "Stream",
+    "tags": [
+      "pixel",
+      "application",
+      "stream"
+    ]
+  },
+  {
+    "path": "sd_icon_app_streamdeck.png",
+    "name": "Streamdeck",
+    "tags": [
+      "pixel",
+      "application",
+      "streamdeck"
+    ]
+  },
+  {
+    "path": "sd_icon_app_streamlabs.png",
+    "name": "Streamlabs",
+    "tags": [
+      "pixel",
+      "application",
+      "streamlabs"
+    ]
+  },
+  {
+    "path": "sd_icon_app_teamspeak.png",
+    "name": "Teamspeak",
+    "tags": [
+      "pixel",
+      "application",
+      "teamspeak"
+    ]
+  },
+  {
+    "path": "sd_icon_app_tiktok.png",
+    "name": "Tiktok",
+    "tags": [
+      "pixel",
+      "application",
+      "tiktok"
+    ]
+  },
+  {
+    "path": "sd_icon_app_twitch.png",
+    "name": "Twitch",
+    "tags": [
+      "pixel",
+      "application",
+      "twitch"
+    ]
+  },
+  {
+    "path": "sd_icon_app_twitter.png",
+    "name": "Twitter",
+    "tags": [
+      "pixel",
+      "application",
+      "twitter"
+    ]
+  },
+  {
+    "path": "sd_icon_app_ubisoft.png",
+    "name": "Ubisoft",
+    "tags": [
+      "pixel",
+      "application",
+      "ubisoft"
+    ]
+  },
+  {
+    "path": "sd_icon_app_vlc.png",
+    "name": "Vlc",
+    "tags": [
+      "pixel",
+      "application",
+      "vlc"
+    ]
+  },
+  {
+    "path": "sd_icon_app_webcam.png",
+    "name": "Webcam",
+    "tags": [
+      "pixel",
+      "application",
+      "webcam"
+    ]
+  },
+  {
+    "path": "sd_icon_app_whatsapp.png",
+    "name": "Whatsapp",
+    "tags": [
+      "pixel",
+      "application",
+      "whatsapp"
+    ]
+  },
+  {
+    "path": "sd_icon_app_windows.png",
+    "name": "Windows",
+    "tags": [
+      "pixel",
+      "application",
+      "windows"
+    ]
+  },
+  {
+    "path": "sd_icon_app_xbox.png",
+    "name": "Xbox",
+    "tags": [
+      "pixel",
+      "application",
+      "xbox"
+    ]
+  },
+  {
+    "path": "sd_icon_app_xsplit.png",
+    "name": "Xsplit",
+    "tags": [
+      "pixel",
+      "application",
+      "xsplit"
+    ]
+  },
+  {
+    "path": "sd_icon_app_youtube.png",
+    "name": "Youtube",
+    "tags": [
+      "pixel",
+      "application",
+      "youtube"
+    ]
+  },
+  {
+    "path": "sd_icon_app_zoom.png",
+    "name": "Zoom",
+    "tags": [
+      "pixel",
+      "application",
+      "zoom"
+    ]
+  }
+]
