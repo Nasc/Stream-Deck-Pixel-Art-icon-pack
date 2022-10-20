@@ -1,0 +1,2402 @@
+[
+  {
+    "path": "sd_icon_action_redo.png",
+    "name": "Action Redo",
+    "tags": [
+      "pixel",
+      "actionredo"
+    ]
+  },
+  {
+    "path": "sd_icon_action_undo.png",
+    "name": "Action Undo",
+    "tags": [
+      "pixel",
+      "actionundo"
+    ]
+  },
+  {
+    "path": "sd_icon_alert_off.png",
+    "name": "Alert Off",
+    "tags": [
+      "pixel",
+      "alertoff"
+    ]
+  },
+  {
+    "path": "sd_icon_alert_on.png",
+    "name": "Alert On",
+    "tags": [
+      "pixel",
+      "alerton"
+    ]
+  },
+  {
+    "path": "sd_icon_arrange_bottom.png",
+    "name": "Arrange Bottom",
+    "tags": [
+      "pixel",
+      "arrangebottom"
+    ]
+  },
+  {
+    "path": "sd_icon_arrange_top.png",
+    "name": "Arrange Top",
+    "tags": [
+      "pixel",
+      "arrangetop"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_back.png",
+    "name": "Arrow Back",
+    "tags": [
+      "pixel",
+      "arrowback"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_bottom.png",
+    "name": "Arrow Bottom",
+    "tags": [
+      "pixel",
+      "arrowbottom"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_expand.png",
+    "name": "Arrow Expand",
+    "tags": [
+      "pixel",
+      "arrowexpand"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_expand_h.png",
+    "name": "Arrow Expand H",
+    "tags": [
+      "pixel",
+      "arrowexpandh"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_expand_v.png",
+    "name": "Arrow Expand V",
+    "tags": [
+      "pixel",
+      "arrowexpandv"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_left.png",
+    "name": "Arrow Left",
+    "tags": [
+      "pixel",
+      "arrowleft"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_move.png",
+    "name": "Arrow Move",
+    "tags": [
+      "pixel",
+      "arrowmove"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_right.png",
+    "name": "Arrow Right",
+    "tags": [
+      "pixel",
+      "arrowright"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_swap.png",
+    "name": "Arrow Swap",
+    "tags": [
+      "pixel",
+      "arrowswap"
+    ]
+  },
+  {
+    "path": "sd_icon_arrow_up.png",
+    "name": "Arrow Up",
+    "tags": [
+      "pixel",
+      "arrowup"
+    ]
+  },
+  {
+    "path": "sd_icon_at.png",
+    "name": "At",
+    "tags": [
+      "pixel",
+      "at"
+    ]
+  },
+  {
+    "path": "sd_icon_attach.png",
+    "name": "Attach",
+    "tags": [
+      "pixel",
+      "attach"
+    ]
+  },
+  {
+    "path": "sd_icon_battery_0.png",
+    "name": "Battery 0",
+    "tags": [
+      "pixel",
+      "battery0"
+    ]
+  },
+  {
+    "path": "sd_icon_battery_100.png",
+    "name": "Battery 100",
+    "tags": [
+      "pixel",
+      "battery100"
+    ]
+  },
+  {
+    "path": "sd_icon_battery_25.png",
+    "name": "Battery 25",
+    "tags": [
+      "pixel",
+      "battery25"
+    ]
+  },
+  {
+    "path": "sd_icon_battery_50.png",
+    "name": "Battery 50",
+    "tags": [
+      "pixel",
+      "battery50"
+    ]
+  },
+  {
+    "path": "sd_icon_battery_75.png",
+    "name": "Battery 75",
+    "tags": [
+      "pixel",
+      "battery75"
+    ]
+  },
+  {
+    "path": "sd_icon_battery_empty.png",
+    "name": "Battery Empty",
+    "tags": [
+      "pixel",
+      "batteryempty"
+    ]
+  },
+  {
+    "path": "sd_icon_battery_full.png",
+    "name": "Battery Full",
+    "tags": [
+      "pixel",
+      "batteryfull"
+    ]
+  },
+  {
+    "path": "sd_icon_battery_plugged.png",
+    "name": "Battery Plugged",
+    "tags": [
+      "pixel",
+      "batteryplugged"
+    ]
+  },
+  {
+    "path": "sd_icon_bio_hazard.png",
+    "name": "Bio Hazard",
+    "tags": [
+      "pixel",
+      "biohazard"
+    ]
+  },
+  {
+    "path": "sd_icon_bottle.png",
+    "name": "Bottle",
+    "tags": [
+      "pixel",
+      "bottle"
+    ]
+  },
+  {
+    "path": "sd_icon_brightness_0.png",
+    "name": "Brightness 0",
+    "tags": [
+      "pixel",
+      "brightness0"
+    ]
+  },
+  {
+    "path": "sd_icon_brightness_100.png",
+    "name": "Brightness 100",
+    "tags": [
+      "pixel",
+      "brightness100"
+    ]
+  },
+  {
+    "path": "sd_icon_brightness_25.png",
+    "name": "Brightness 25",
+    "tags": [
+      "pixel",
+      "brightness25"
+    ]
+  },
+  {
+    "path": "sd_icon_brightness_50.png",
+    "name": "Brightness 50",
+    "tags": [
+      "pixel",
+      "brightness50"
+    ]
+  },
+  {
+    "path": "sd_icon_brightness_75.png",
+    "name": "Brightness 75",
+    "tags": [
+      "pixel",
+      "brightness75"
+    ]
+  },
+  {
+    "path": "sd_icon_brightness_minus.png",
+    "name": "Brightness Minus",
+    "tags": [
+      "pixel",
+      "brightnessminus"
+    ]
+  },
+  {
+    "path": "sd_icon_brightness_plus.png",
+    "name": "Brightness Plus",
+    "tags": [
+      "pixel",
+      "brightnessplus"
+    ]
+  },
+  {
+    "path": "sd_icon_camera.png",
+    "name": "Camera",
+    "tags": [
+      "pixel",
+      "camera"
+    ]
+  },
+  {
+    "path": "sd_icon_capture.png",
+    "name": "Capture",
+    "tags": [
+      "pixel",
+      "capture"
+    ]
+  },
+  {
+    "path": "sd_icon_card_brightness.png",
+    "name": "Card Brightness",
+    "tags": [
+      "pixel",
+      "cardbrightness"
+    ]
+  },
+  {
+    "path": "sd_icon_card_game.png",
+    "name": "Card Game",
+    "tags": [
+      "pixel",
+      "cardgame"
+    ]
+  },
+  {
+    "path": "sd_icon_card_key.png",
+    "name": "Card Key",
+    "tags": [
+      "pixel",
+      "cardkey"
+    ]
+  },
+  {
+    "path": "sd_icon_card_list.png",
+    "name": "Card List",
+    "tags": [
+      "pixel",
+      "cardlist"
+    ]
+  },
+  {
+    "path": "sd_icon_card_lock.png",
+    "name": "Card Lock",
+    "tags": [
+      "pixel",
+      "cardlock"
+    ]
+  },
+  {
+    "path": "sd_icon_card_microphone.png",
+    "name": "Card Microphone",
+    "tags": [
+      "pixel",
+      "cardmicrophone"
+    ]
+  },
+  {
+    "path": "sd_icon_card_movie.png",
+    "name": "Card Movie",
+    "tags": [
+      "pixel",
+      "cardmovie"
+    ]
+  },
+  {
+    "path": "sd_icon_card_music.png",
+    "name": "Card Music",
+    "tags": [
+      "pixel",
+      "cardmusic"
+    ]
+  },
+  {
+    "path": "sd_icon_card_photo.png",
+    "name": "Card Photo",
+    "tags": [
+      "pixel",
+      "cardphoto"
+    ]
+  },
+  {
+    "path": "sd_icon_card_profile.png",
+    "name": "Card Profile",
+    "tags": [
+      "pixel",
+      "cardprofile"
+    ]
+  },
+  {
+    "path": "sd_icon_card_single.png",
+    "name": "Card Single",
+    "tags": [
+      "pixel",
+      "cardsingle"
+    ]
+  },
+  {
+    "path": "sd_icon_card_time.png",
+    "name": "Card Time",
+    "tags": [
+      "pixel",
+      "cardtime"
+    ]
+  },
+  {
+    "path": "sd_icon_card_user.png",
+    "name": "Card User",
+    "tags": [
+      "pixel",
+      "carduser"
+    ]
+  },
+  {
+    "path": "sd_icon_card_window.png",
+    "name": "Card Window",
+    "tags": [
+      "pixel",
+      "cardwindow"
+    ]
+  },
+  {
+    "path": "sd_icon_cart.png",
+    "name": "Cart",
+    "tags": [
+      "pixel",
+      "cart"
+    ]
+  },
+  {
+    "path": "sd_icon_cc_off.png",
+    "name": "Cc Off",
+    "tags": [
+      "pixel",
+      "ccoff"
+    ]
+  },
+  {
+    "path": "sd_icon_cc_on.png",
+    "name": "Cc On",
+    "tags": [
+      "pixel",
+      "ccon"
+    ]
+  },
+  {
+    "path": "sd_icon_chrono_off.png",
+    "name": "Chrono Off",
+    "tags": [
+      "pixel",
+      "chronooff"
+    ]
+  },
+  {
+    "path": "sd_icon_chrono_on.png",
+    "name": "Chrono On",
+    "tags": [
+      "pixel",
+      "chronoon"
+    ]
+  },
+  {
+    "path": "sd_icon_circle_add.png",
+    "name": "Circle Add",
+    "tags": [
+      "pixel",
+      "circleadd"
+    ]
+  },
+  {
+    "path": "sd_icon_circle_delete.png",
+    "name": "Circle Delete",
+    "tags": [
+      "pixel",
+      "circledelete"
+    ]
+  },
+  {
+    "path": "sd_icon_circle_remove.png",
+    "name": "Circle Remove",
+    "tags": [
+      "pixel",
+      "circleremove"
+    ]
+  },
+  {
+    "path": "sd_icon_circle_validate.png",
+    "name": "Circle Validate",
+    "tags": [
+      "pixel",
+      "circlevalidate"
+    ]
+  },
+  {
+    "path": "sd_icon_cloud_off.png",
+    "name": "Cloud Off",
+    "tags": [
+      "pixel",
+      "cloudoff"
+    ]
+  },
+  {
+    "path": "sd_icon_cloud_on.png",
+    "name": "Cloud On",
+    "tags": [
+      "pixel",
+      "cloudon"
+    ]
+  },
+  {
+    "path": "sd_icon_color.png",
+    "name": "Color",
+    "tags": [
+      "pixel",
+      "color"
+    ]
+  },
+  {
+    "path": "sd_icon_cpu.png",
+    "name": "Cpu",
+    "tags": [
+      "pixel",
+      "cpu"
+    ]
+  },
+  {
+    "path": "sd_icon_cpu_outline.png",
+    "name": "Cpu Outline",
+    "tags": [
+      "pixel",
+      "cpuoutline"
+    ]
+  },
+  {
+    "path": "sd_icon_crown_king.png",
+    "name": "Crown King",
+    "tags": [
+      "pixel",
+      "crownking"
+    ]
+  },
+  {
+    "path": "sd_icon_crown_prince.png",
+    "name": "Crown Prince",
+    "tags": [
+      "pixel",
+      "crownprince"
+    ]
+  },
+  {
+    "path": "sd_icon_crown_queen.png",
+    "name": "Crown Queen",
+    "tags": [
+      "pixel",
+      "crownqueen"
+    ]
+  },
+  {
+    "path": "sd_icon_cube.png",
+    "name": "Cube",
+    "tags": [
+      "pixel",
+      "cube"
+    ]
+  },
+  {
+    "path": "sd_icon_cube_dice.png",
+    "name": "Cube Dice",
+    "tags": [
+      "pixel",
+      "cubedice"
+    ]
+  },
+  {
+    "path": "sd_icon_cube_outline.png",
+    "name": "Cube Outline",
+    "tags": [
+      "pixel",
+      "cubeoutline"
+    ]
+  },
+  {
+    "path": "sd_icon_decline.png",
+    "name": "Decline",
+    "tags": [
+      "pixel",
+      "decline"
+    ]
+  },
+  {
+    "path": "sd_icon_discuss_bubble.png",
+    "name": "Discuss Bubble",
+    "tags": [
+      "pixel",
+      "discussbubble"
+    ]
+  },
+  {
+    "path": "sd_icon_discuss_bubble_add.png",
+    "name": "Discuss Bubble Add",
+    "tags": [
+      "pixel",
+      "discussbubbleadd"
+    ]
+  },
+  {
+    "path": "sd_icon_discuss_bubble_delete.png",
+    "name": "Discuss Bubble Delete",
+    "tags": [
+      "pixel",
+      "discussbubbledelete"
+    ]
+  },
+  {
+    "path": "sd_icon_discuss_bubble_outline.png",
+    "name": "Discuss Bubble Outline",
+    "tags": [
+      "pixel",
+      "discussbubbleoutline"
+    ]
+  },
+  {
+    "path": "sd_icon_discuss_bubble_quote.png",
+    "name": "Discuss Bubble Quote",
+    "tags": [
+      "pixel",
+      "discussbubblequote"
+    ]
+  },
+  {
+    "path": "sd_icon_discuss_bubble_remove.png",
+    "name": "Discuss Bubble Remove",
+    "tags": [
+      "pixel",
+      "discussbubbleremove"
+    ]
+  },
+  {
+    "path": "sd_icon_discuss_bubble_text.png",
+    "name": "Discuss Bubble Text",
+    "tags": [
+      "pixel",
+      "discussbubbletext"
+    ]
+  },
+  {
+    "path": "sd_icon_donate.png",
+    "name": "Donate",
+    "tags": [
+      "pixel",
+      "donate"
+    ]
+  },
+  {
+    "path": "sd_icon_dots.png",
+    "name": "Dots",
+    "tags": [
+      "pixel",
+      "dots"
+    ]
+  },
+  {
+    "path": "sd_icon_download.png",
+    "name": "Download",
+    "tags": [
+      "pixel",
+      "download"
+    ]
+  },
+  {
+    "path": "sd_icon_earth.png",
+    "name": "Earth",
+    "tags": [
+      "pixel",
+      "earth"
+    ]
+  },
+  {
+    "path": "sd_icon_edit_copy.png",
+    "name": "Edit Copy",
+    "tags": [
+      "pixel",
+      "editcopy"
+    ]
+  },
+  {
+    "path": "sd_icon_edit_cut.png",
+    "name": "Edit Cut",
+    "tags": [
+      "pixel",
+      "editcut"
+    ]
+  },
+  {
+    "path": "sd_icon_edit_paste.png",
+    "name": "Edit Paste",
+    "tags": [
+      "pixel",
+      "editpaste"
+    ]
+  },
+  {
+    "path": "sd_icon_eq.png",
+    "name": "Eq",
+    "tags": [
+      "pixel",
+      "eq"
+    ]
+  },
+  {
+    "path": "sd_icon_eq_settings.png",
+    "name": "Eq Settings",
+    "tags": [
+      "pixel",
+      "eqsettings"
+    ]
+  },
+  {
+    "path": "sd_icon_eraser.png",
+    "name": "Eraser",
+    "tags": [
+      "pixel",
+      "eraser"
+    ]
+  },
+  {
+    "path": "sd_icon_film_h.png",
+    "name": "Film H",
+    "tags": [
+      "pixel",
+      "filmh"
+    ]
+  },
+  {
+    "path": "sd_icon_film_v.png",
+    "name": "Film V",
+    "tags": [
+      "pixel",
+      "filmv"
+    ]
+  },
+  {
+    "path": "sd_icon_flag.png",
+    "name": "Flag",
+    "tags": [
+      "pixel",
+      "flag"
+    ]
+  },
+  {
+    "path": "sd_icon_flag_finish.png",
+    "name": "Flag Finish",
+    "tags": [
+      "pixel",
+      "flagfinish"
+    ]
+  },
+  {
+    "path": "sd_icon_flash.png",
+    "name": "Flash",
+    "tags": [
+      "pixel",
+      "flash"
+    ]
+  },
+  {
+    "path": "sd_icon_flashback.png",
+    "name": "Flashback",
+    "tags": [
+      "pixel",
+      "flashback"
+    ]
+  },
+  {
+    "path": "sd_icon_floppy.png",
+    "name": "Floppy",
+    "tags": [
+      "pixel",
+      "floppy"
+    ]
+  },
+  {
+    "path": "sd_icon_folder.png",
+    "name": "Folder",
+    "tags": [
+      "pixel",
+      "folder"
+    ]
+  },
+  {
+    "path": "sd_icon_folder_add.png",
+    "name": "Folder Add",
+    "tags": [
+      "pixel",
+      "folderadd"
+    ]
+  },
+  {
+    "path": "sd_icon_folder_multiple.png",
+    "name": "Folder Multiple",
+    "tags": [
+      "pixel",
+      "foldermultiple"
+    ]
+  },
+  {
+    "path": "sd_icon_font.png",
+    "name": "Font",
+    "tags": [
+      "pixel",
+      "font"
+    ]
+  },
+  {
+    "path": "sd_icon_game_pad.png",
+    "name": "Game Pad",
+    "tags": [
+      "pixel",
+      "gamepad"
+    ]
+  },
+  {
+    "path": "sd_icon_game_pad_outline.png",
+    "name": "Game Pad Outline",
+    "tags": [
+      "pixel",
+      "gamepadoutline"
+    ]
+  },
+  {
+    "path": "sd_icon_game_stick.png",
+    "name": "Game Stick",
+    "tags": [
+      "pixel",
+      "gamestick"
+    ]
+  },
+  {
+    "path": "sd_icon_gauge_0.png",
+    "name": "Gauge 0",
+    "tags": [
+      "pixel",
+      "gauge0"
+    ]
+  },
+  {
+    "path": "sd_icon_gauge_100.png",
+    "name": "Gauge 100",
+    "tags": [
+      "pixel",
+      "gauge100"
+    ]
+  },
+  {
+    "path": "sd_icon_gauge_25.png",
+    "name": "Gauge 25",
+    "tags": [
+      "pixel",
+      "gauge25"
+    ]
+  },
+  {
+    "path": "sd_icon_gauge_50.png",
+    "name": "Gauge 50",
+    "tags": [
+      "pixel",
+      "gauge50"
+    ]
+  },
+  {
+    "path": "sd_icon_gauge_75.png",
+    "name": "Gauge 75",
+    "tags": [
+      "pixel",
+      "gauge75"
+    ]
+  },
+  {
+    "path": "sd_icon_gift.png",
+    "name": "Gift",
+    "tags": [
+      "pixel",
+      "gift"
+    ]
+  },
+  {
+    "path": "sd_icon_graph.png",
+    "name": "Graph",
+    "tags": [
+      "pixel",
+      "graph"
+    ]
+  },
+  {
+    "path": "sd_icon_hand_approve.png",
+    "name": "Hand Approve",
+    "tags": [
+      "pixel",
+      "handapprove"
+    ]
+  },
+  {
+    "path": "sd_icon_headphone.png",
+    "name": "Headphone",
+    "tags": [
+      "pixel",
+      "headphone"
+    ]
+  },
+  {
+    "path": "sd_icon_headphone_mute.png",
+    "name": "Headphone Mute",
+    "tags": [
+      "pixel",
+      "headphonemute"
+    ]
+  },
+  {
+    "path": "sd_icon_headphone_settings.png",
+    "name": "Headphone Settings",
+    "tags": [
+      "pixel",
+      "headphonesettings"
+    ]
+  },
+  {
+    "path": "sd_icon_home.png",
+    "name": "Home",
+    "tags": [
+      "pixel",
+      "home"
+    ]
+  },
+  {
+    "path": "sd_icon_hp_minus.png",
+    "name": "Hp Minus",
+    "tags": [
+      "pixel",
+      "hpminus"
+    ]
+  },
+  {
+    "path": "sd_icon_hp_mute.png",
+    "name": "Hp Mute",
+    "tags": [
+      "pixel",
+      "hpmute"
+    ]
+  },
+  {
+    "path": "sd_icon_hp_on.png",
+    "name": "Hp On",
+    "tags": [
+      "pixel",
+      "hpon"
+    ]
+  },
+  {
+    "path": "sd_icon_hp_plus.png",
+    "name": "Hp Plus",
+    "tags": [
+      "pixel",
+      "hpplus"
+    ]
+  },
+  {
+    "path": "sd_icon_hp_settings.png",
+    "name": "Hp Settings",
+    "tags": [
+      "pixel",
+      "hpsettings"
+    ]
+  },
+  {
+    "path": "sd_icon_key_light_black.png",
+    "name": "Key Light Black",
+    "tags": [
+      "pixel",
+      "keylightblack"
+    ]
+  },
+  {
+    "path": "sd_icon_key_light_blue.png",
+    "name": "Key Light Blue",
+    "tags": [
+      "pixel",
+      "keylightblue"
+    ]
+  },
+  {
+    "path": "sd_icon_key_light_white.png",
+    "name": "Key Light White",
+    "tags": [
+      "pixel",
+      "keylightwhite"
+    ]
+  },
+  {
+    "path": "sd_icon_key_light_yellow.png",
+    "name": "Key Light Yellow",
+    "tags": [
+      "pixel",
+      "keylightyellow"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_1.png",
+    "name": "Light Bubble 1",
+    "tags": [
+      "pixel",
+      "lightbubble1"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_2.png",
+    "name": "Light Bubble 2",
+    "tags": [
+      "pixel",
+      "lightbubble2"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_3.png",
+    "name": "Light Bubble 3",
+    "tags": [
+      "pixel",
+      "lightbubble3"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_4.png",
+    "name": "Light Bubble 4",
+    "tags": [
+      "pixel",
+      "lightbubble4"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_5.png",
+    "name": "Light Bubble 5",
+    "tags": [
+      "pixel",
+      "lightbubble5"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_black.png",
+    "name": "Light Bubble Black",
+    "tags": [
+      "pixel",
+      "lightbubbleblack"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_blue.png",
+    "name": "Light Bubble Blue",
+    "tags": [
+      "pixel",
+      "lightbubbleblue"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_multicolors.png",
+    "name": "Light Bubble Multicolors",
+    "tags": [
+      "pixel",
+      "lightbubblemulticolors"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_off.png",
+    "name": "Light Bubble Off",
+    "tags": [
+      "pixel",
+      "lightbubbleoff"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_on.png",
+    "name": "Light Bubble On",
+    "tags": [
+      "pixel",
+      "lightbubbleon"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_settings.png",
+    "name": "Light Bubble Settings",
+    "tags": [
+      "pixel",
+      "lightbubblesettings"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_white.png",
+    "name": "Light Bubble White",
+    "tags": [
+      "pixel",
+      "lightbubblewhite"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_yellow.png",
+    "name": "Light Bubble Yellow",
+    "tags": [
+      "pixel",
+      "lightbubbleyellow"
+    ]
+  },
+  {
+    "path": "sd_icon_light_spot_off.png",
+    "name": "Light Spot Off",
+    "tags": [
+      "pixel",
+      "lightspotoff"
+    ]
+  },
+  {
+    "path": "sd_icon_light_spot_on.png",
+    "name": "Light Spot On",
+    "tags": [
+      "pixel",
+      "lightspoton"
+    ]
+  },
+  {
+    "path": "sd_icon_link.png",
+    "name": "Link",
+    "tags": [
+      "pixel",
+      "link"
+    ]
+  },
+  {
+    "path": "sd_icon_location.png",
+    "name": "Location",
+    "tags": [
+      "pixel",
+      "location"
+    ]
+  },
+  {
+    "path": "sd_icon_love_heart_1.png",
+    "name": "Love Heart 1",
+    "tags": [
+      "pixel",
+      "loveheart1"
+    ]
+  },
+  {
+    "path": "sd_icon_love_heart_2.png",
+    "name": "Love Heart 2",
+    "tags": [
+      "pixel",
+      "loveheart2"
+    ]
+  },
+  {
+    "path": "sd_icon_love_heart_3.png",
+    "name": "Love Heart 3",
+    "tags": [
+      "pixel",
+      "loveheart3"
+    ]
+  },
+  {
+    "path": "sd_icon_magic.png",
+    "name": "Magic",
+    "tags": [
+      "pixel",
+      "magic"
+    ]
+  },
+  {
+    "path": "sd_icon_mail.png",
+    "name": "Mail",
+    "tags": [
+      "pixel",
+      "mail"
+    ]
+  },
+  {
+    "path": "sd_icon_medal.png",
+    "name": "Medal",
+    "tags": [
+      "pixel",
+      "medal"
+    ]
+  },
+  {
+    "path": "sd_icon_media_backward.png",
+    "name": "Media Backward",
+    "tags": [
+      "pixel",
+      "mediabackward"
+    ]
+  },
+  {
+    "path": "sd_icon_media_forward.png",
+    "name": "Media Forward",
+    "tags": [
+      "pixel",
+      "mediaforward"
+    ]
+  },
+  {
+    "path": "sd_icon_media_next.png",
+    "name": "Media Next",
+    "tags": [
+      "pixel",
+      "medianext"
+    ]
+  },
+  {
+    "path": "sd_icon_media_pause.png",
+    "name": "Media Pause",
+    "tags": [
+      "pixel",
+      "mediapause"
+    ]
+  },
+  {
+    "path": "sd_icon_media_play.png",
+    "name": "Media Play",
+    "tags": [
+      "pixel",
+      "mediaplay"
+    ]
+  },
+  {
+    "path": "sd_icon_media_play_pause.png",
+    "name": "Media Play Pause",
+    "tags": [
+      "pixel",
+      "mediaplaypause"
+    ]
+  },
+  {
+    "path": "sd_icon_media_previous.png",
+    "name": "Media Previous",
+    "tags": [
+      "pixel",
+      "mediaprevious"
+    ]
+  },
+  {
+    "path": "sd_icon_media_rec.png",
+    "name": "Media Rec",
+    "tags": [
+      "pixel",
+      "mediarec"
+    ]
+  },
+  {
+    "path": "sd_icon_media_rec_pause.png",
+    "name": "Media Rec Pause",
+    "tags": [
+      "pixel",
+      "mediarecpause"
+    ]
+  },
+  {
+    "path": "sd_icon_media_shuffle.png",
+    "name": "Media Shuffle",
+    "tags": [
+      "pixel",
+      "mediashuffle"
+    ]
+  },
+  {
+    "path": "sd_icon_media_stop.png",
+    "name": "Media Stop",
+    "tags": [
+      "pixel",
+      "mediastop"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone.png",
+    "name": "Microphone",
+    "tags": [
+      "pixel",
+      "microphone"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone_1.png",
+    "name": "Microphone 1",
+    "tags": [
+      "pixel",
+      "microphone1"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone_2.png",
+    "name": "Microphone 2",
+    "tags": [
+      "pixel",
+      "microphone2"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone_3.png",
+    "name": "Microphone 3",
+    "tags": [
+      "pixel",
+      "microphone3"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone_4.png",
+    "name": "Microphone 4",
+    "tags": [
+      "pixel",
+      "microphone4"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone_mute.png",
+    "name": "Microphone Mute",
+    "tags": [
+      "pixel",
+      "microphonemute"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone_on.png",
+    "name": "Microphone On",
+    "tags": [
+      "pixel",
+      "microphoneon"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone_settings.png",
+    "name": "Microphone Settings",
+    "tags": [
+      "pixel",
+      "microphonesettings"
+    ]
+  },
+  {
+    "path": "sd_icon_money.png",
+    "name": "Money",
+    "tags": [
+      "pixel",
+      "money"
+    ]
+  },
+  {
+    "path": "sd_icon_monitoring_off.png",
+    "name": "Monitoring Off",
+    "tags": [
+      "pixel",
+      "monitoringoff"
+    ]
+  },
+  {
+    "path": "sd_icon_monitoring_on.png",
+    "name": "Monitoring On",
+    "tags": [
+      "pixel",
+      "monitoringon"
+    ]
+  },
+  {
+    "path": "sd_icon_moon.png",
+    "name": "Moon",
+    "tags": [
+      "pixel",
+      "moon"
+    ]
+  },
+  {
+    "path": "sd_icon_move_enter.png",
+    "name": "Move Enter",
+    "tags": [
+      "pixel",
+      "moveenter"
+    ]
+  },
+  {
+    "path": "sd_icon_move_exit.png",
+    "name": "Move Exit",
+    "tags": [
+      "pixel",
+      "moveexit"
+    ]
+  },
+  {
+    "path": "sd_icon_music.png",
+    "name": "Music",
+    "tags": [
+      "pixel",
+      "music"
+    ]
+  },
+  {
+    "path": "sd_icon_music_add.png",
+    "name": "Music Add",
+    "tags": [
+      "pixel",
+      "musicadd"
+    ]
+  },
+  {
+    "path": "sd_icon_music_mute.png",
+    "name": "Music Mute",
+    "tags": [
+      "pixel",
+      "musicmute"
+    ]
+  },
+  {
+    "path": "sd_icon_music_remove.png",
+    "name": "Music Remove",
+    "tags": [
+      "pixel",
+      "musicremove"
+    ]
+  },
+  {
+    "path": "sd_icon_music_settings.png",
+    "name": "Music Settings",
+    "tags": [
+      "pixel",
+      "musicsettings"
+    ]
+  },
+  {
+    "path": "sd_icon_music_shuffle.png",
+    "name": "Music Shuffle",
+    "tags": [
+      "pixel",
+      "musicshuffle"
+    ]
+  },
+  {
+    "path": "sd_icon_notebook.png",
+    "name": "Notebook",
+    "tags": [
+      "pixel",
+      "notebook"
+    ]
+  },
+  {
+    "path": "sd_icon_notepad.png",
+    "name": "Notepad",
+    "tags": [
+      "pixel",
+      "notepad"
+    ]
+  },
+  {
+    "path": "sd_icon_off.png",
+    "name": "Off",
+    "tags": [
+      "pixel",
+      "off"
+    ]
+  },
+  {
+    "path": "sd_icon_on.png",
+    "name": "On",
+    "tags": [
+      "pixel",
+      "on"
+    ]
+  },
+  {
+    "path": "sd_icon_padlock_lock.png",
+    "name": "Padlock Lock",
+    "tags": [
+      "pixel",
+      "padlocklock"
+    ]
+  },
+  {
+    "path": "sd_icon_padlock_unlock.png",
+    "name": "Padlock Unlock",
+    "tags": [
+      "pixel",
+      "padlockunlock"
+    ]
+  },
+  {
+    "path": "sd_icon_pen.png",
+    "name": "Pen",
+    "tags": [
+      "pixel",
+      "pen"
+    ]
+  },
+  {
+    "path": "sd_icon_pen_draw.png",
+    "name": "Pen Draw",
+    "tags": [
+      "pixel",
+      "pendraw"
+    ]
+  },
+  {
+    "path": "sd_icon_pill.png",
+    "name": "Pill",
+    "tags": [
+      "pixel",
+      "pill"
+    ]
+  },
+  {
+    "path": "sd_icon_pin.png",
+    "name": "Pin",
+    "tags": [
+      "pixel",
+      "pin"
+    ]
+  },
+  {
+    "path": "sd_icon_pin_add.png",
+    "name": "Pin Add",
+    "tags": [
+      "pixel",
+      "pinadd"
+    ]
+  },
+  {
+    "path": "sd_icon_pin_list.png",
+    "name": "Pin List",
+    "tags": [
+      "pixel",
+      "pinlist"
+    ]
+  },
+  {
+    "path": "sd_icon_pin_remove.png",
+    "name": "Pin Remove",
+    "tags": [
+      "pixel",
+      "pinremove"
+    ]
+  },
+  {
+    "path": "sd_icon_plane.png",
+    "name": "Plane",
+    "tags": [
+      "pixel",
+      "plane"
+    ]
+  },
+  {
+    "path": "sd_icon_profile_add.png",
+    "name": "Profile Add",
+    "tags": [
+      "pixel",
+      "profileadd"
+    ]
+  },
+  {
+    "path": "sd_icon_profile_block.png",
+    "name": "Profile Block",
+    "tags": [
+      "pixel",
+      "profileblock"
+    ]
+  },
+  {
+    "path": "sd_icon_profile_discuss.png",
+    "name": "Profile Discuss",
+    "tags": [
+      "pixel",
+      "profilediscuss"
+    ]
+  },
+  {
+    "path": "sd_icon_profile_group_2.png",
+    "name": "Profile Group 2",
+    "tags": [
+      "pixel",
+      "profilegroup2"
+    ]
+  },
+  {
+    "path": "sd_icon_profile_group_3.png",
+    "name": "Profile Group 3",
+    "tags": [
+      "pixel",
+      "profilegroup3"
+    ]
+  },
+  {
+    "path": "sd_icon_profile_remove.png",
+    "name": "Profile Remove",
+    "tags": [
+      "pixel",
+      "profileremove"
+    ]
+  },
+  {
+    "path": "sd_icon_profile_user.png",
+    "name": "Profile User",
+    "tags": [
+      "pixel",
+      "profileuser"
+    ]
+  },
+  {
+    "path": "sd_icon_profile_user_off.png",
+    "name": "Profile User Off",
+    "tags": [
+      "pixel",
+      "profileuseroff"
+    ]
+  },
+  {
+    "path": "sd_icon_puzzle.png",
+    "name": "Puzzle",
+    "tags": [
+      "pixel",
+      "puzzle"
+    ]
+  },
+  {
+    "path": "sd_icon_question.png",
+    "name": "Question",
+    "tags": [
+      "pixel",
+      "question"
+    ]
+  },
+  {
+    "path": "sd_icon_record_green.png",
+    "name": "Record Green",
+    "tags": [
+      "pixel",
+      "recordgreen"
+    ]
+  },
+  {
+    "path": "sd_icon_record_red.png",
+    "name": "Record Red",
+    "tags": [
+      "pixel",
+      "recordred"
+    ]
+  },
+  {
+    "path": "sd_icon_record_white.png",
+    "name": "Record White",
+    "tags": [
+      "pixel",
+      "recordwhite"
+    ]
+  },
+  {
+    "path": "sd_icon_refresh.png",
+    "name": "Refresh",
+    "tags": [
+      "pixel",
+      "refresh"
+    ]
+  },
+  {
+    "path": "sd_icon_replay.png",
+    "name": "Replay",
+    "tags": [
+      "pixel",
+      "replay"
+    ]
+  },
+  {
+    "path": "sd_icon_rocket.png",
+    "name": "Rocket",
+    "tags": [
+      "pixel",
+      "rocket"
+    ]
+  },
+  {
+    "path": "sd_icon_sand_time.png",
+    "name": "Sand Time",
+    "tags": [
+      "pixel",
+      "sandtime"
+    ]
+  },
+  {
+    "path": "sd_icon_scene.png",
+    "name": "Scene",
+    "tags": [
+      "pixel",
+      "scene"
+    ]
+  },
+  {
+    "path": "sd_icon_scenes.png",
+    "name": "Scenes",
+    "tags": [
+      "pixel",
+      "scenes"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_1.png",
+    "name": "Screen 1",
+    "tags": [
+      "pixel",
+      "screen1"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_2.png",
+    "name": "Screen 2",
+    "tags": [
+      "pixel",
+      "screen2"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_3.png",
+    "name": "Screen 3",
+    "tags": [
+      "pixel",
+      "screen3"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_4.png",
+    "name": "Screen 4",
+    "tags": [
+      "pixel",
+      "screen4"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_ads.png",
+    "name": "Screen Ads",
+    "tags": [
+      "pixel",
+      "screenads"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_binary_0.png",
+    "name": "Screen Binary 0",
+    "tags": [
+      "pixel",
+      "screenbinary0"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_binary_1.png",
+    "name": "Screen Binary 1",
+    "tags": [
+      "pixel",
+      "screenbinary1"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_button_off.png",
+    "name": "Screen Button Off",
+    "tags": [
+      "pixel",
+      "screenbuttonoff"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_button_on.png",
+    "name": "Screen Button On",
+    "tags": [
+      "pixel",
+      "screenbuttonon"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_dark.png",
+    "name": "Screen Dark",
+    "tags": [
+      "pixel",
+      "screendark"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_hd.png",
+    "name": "Screen Hd",
+    "tags": [
+      "pixel",
+      "screenhd"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_mouse.png",
+    "name": "Screen Mouse",
+    "tags": [
+      "pixel",
+      "screenmouse"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_brb.png",
+    "name": "Screen Msg Brb",
+    "tags": [
+      "pixel",
+      "screenmsgbrb"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_camera.png",
+    "name": "Screen Msg Camera",
+    "tags": [
+      "pixel",
+      "screenmsgcamera"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_end.png",
+    "name": "Screen Msg End",
+    "tags": [
+      "pixel",
+      "screenmsgend"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_game.png",
+    "name": "Screen Msg Game",
+    "tags": [
+      "pixel",
+      "screenmsggame"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_pause.png",
+    "name": "Screen Msg Pause",
+    "tags": [
+      "pixel",
+      "screenmsgpause"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_play.png",
+    "name": "Screen Msg Play",
+    "tags": [
+      "pixel",
+      "screenmsgplay"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_sfx.png",
+    "name": "Screen Msg Sfx",
+    "tags": [
+      "pixel",
+      "screenmsgsfx"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_start.png",
+    "name": "Screen Msg Start",
+    "tags": [
+      "pixel",
+      "screenmsgstart"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_wait.png",
+    "name": "Screen Msg Wait",
+    "tags": [
+      "pixel",
+      "screenmsgwait"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_off.png",
+    "name": "Screen Off",
+    "tags": [
+      "pixel",
+      "screenoff"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_on.png",
+    "name": "Screen On",
+    "tags": [
+      "pixel",
+      "screenon"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_parameters.png",
+    "name": "Screen Parameters",
+    "tags": [
+      "pixel",
+      "screenparameters"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_settings.png",
+    "name": "Screen Settings",
+    "tags": [
+      "pixel",
+      "screensettings"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_transfert_left.png",
+    "name": "Screen Transfert Left",
+    "tags": [
+      "pixel",
+      "screentransfertleft"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_transfert_right.png",
+    "name": "Screen Transfert Right",
+    "tags": [
+      "pixel",
+      "screentransfertright"
+    ]
+  },
+  {
+    "path": "sd_icon_scroll_down.png",
+    "name": "Scroll Down",
+    "tags": [
+      "pixel",
+      "scrolldown"
+    ]
+  },
+  {
+    "path": "sd_icon_scroll_left.png",
+    "name": "Scroll Left",
+    "tags": [
+      "pixel",
+      "scrollleft"
+    ]
+  },
+  {
+    "path": "sd_icon_scroll_right.png",
+    "name": "Scroll Right",
+    "tags": [
+      "pixel",
+      "scrollright"
+    ]
+  },
+  {
+    "path": "sd_icon_scroll_up.png",
+    "name": "Scroll Up",
+    "tags": [
+      "pixel",
+      "scrollup"
+    ]
+  },
+  {
+    "path": "sd_icon_select.png",
+    "name": "Select",
+    "tags": [
+      "pixel",
+      "select"
+    ]
+  },
+  {
+    "path": "sd_icon_settings.png",
+    "name": "Settings",
+    "tags": [
+      "pixel",
+      "settings"
+    ]
+  },
+  {
+    "path": "sd_icon_settings_h.png",
+    "name": "Settings H",
+    "tags": [
+      "pixel",
+      "settingsh"
+    ]
+  },
+  {
+    "path": "sd_icon_settings_v.png",
+    "name": "Settings V",
+    "tags": [
+      "pixel",
+      "settingsv"
+    ]
+  },
+  {
+    "path": "sd_icon_settings_v_outline.png",
+    "name": "Settings V Outline",
+    "tags": [
+      "pixel",
+      "settingsvoutline"
+    ]
+  },
+  {
+    "path": "sd_icon_setting_h_outline.png",
+    "name": "Setting H Outline",
+    "tags": [
+      "pixel",
+      "settinghoutline"
+    ]
+  },
+  {
+    "path": "sd_icon_share.png",
+    "name": "Share",
+    "tags": [
+      "pixel",
+      "share"
+    ]
+  },
+  {
+    "path": "sd_icon_signal_0.png",
+    "name": "Signal 0",
+    "tags": [
+      "pixel",
+      "signal0"
+    ]
+  },
+  {
+    "path": "sd_icon_signal_100.png",
+    "name": "Signal 100",
+    "tags": [
+      "pixel",
+      "signal100"
+    ]
+  },
+  {
+    "path": "sd_icon_signal_25.png",
+    "name": "Signal 25",
+    "tags": [
+      "pixel",
+      "signal25"
+    ]
+  },
+  {
+    "path": "sd_icon_signal_50.png",
+    "name": "Signal 50",
+    "tags": [
+      "pixel",
+      "signal50"
+    ]
+  },
+  {
+    "path": "sd_icon_signal_75.png",
+    "name": "Signal 75",
+    "tags": [
+      "pixel",
+      "signal75"
+    ]
+  },
+  {
+    "path": "sd_icon_skull.png",
+    "name": "Skull",
+    "tags": [
+      "pixel",
+      "skull"
+    ]
+  },
+  {
+    "path": "sd_icon_smartphone.png",
+    "name": "Smartphone",
+    "tags": [
+      "pixel",
+      "smartphone"
+    ]
+  },
+  {
+    "path": "sd_icon_smartphone_off.png",
+    "name": "Smartphone Off",
+    "tags": [
+      "pixel",
+      "smartphoneoff"
+    ]
+  },
+  {
+    "path": "sd_icon_smiley_angry.png",
+    "name": "Smiley Angry",
+    "tags": [
+      "pixel",
+      "smileyangry"
+    ]
+  },
+  {
+    "path": "sd_icon_smiley_happy.png",
+    "name": "Smiley Happy",
+    "tags": [
+      "pixel",
+      "smileyhappy"
+    ]
+  },
+  {
+    "path": "sd_icon_speaker.png",
+    "name": "Speaker",
+    "tags": [
+      "pixel",
+      "speaker"
+    ]
+  },
+  {
+    "path": "sd_icon_speaker_settings.png",
+    "name": "Speaker Settings",
+    "tags": [
+      "pixel",
+      "speakersettings"
+    ]
+  },
+  {
+    "path": "sd_icon_stack.png",
+    "name": "Stack",
+    "tags": [
+      "pixel",
+      "stack"
+    ]
+  },
+  {
+    "path": "sd_icon_star.png",
+    "name": "Star",
+    "tags": [
+      "pixel",
+      "star"
+    ]
+  },
+  {
+    "path": "sd_icon_stream_large.png",
+    "name": "Stream Large",
+    "tags": [
+      "pixel",
+      "streamlarge"
+    ]
+  },
+  {
+    "path": "sd_icon_stream_small.png",
+    "name": "Stream Small",
+    "tags": [
+      "pixel",
+      "streamsmall"
+    ]
+  },
+  {
+    "path": "sd_icon_stream_small_green.png",
+    "name": "Stream Small Green",
+    "tags": [
+      "pixel",
+      "streamsmallgreen"
+    ]
+  },
+  {
+    "path": "sd_icon_stream_small_red.png",
+    "name": "Stream Small Red",
+    "tags": [
+      "pixel",
+      "streamsmallred"
+    ]
+  },
+  {
+    "path": "sd_icon_system_action.png",
+    "name": "System Action",
+    "tags": [
+      "pixel",
+      "systemaction"
+    ]
+  },
+  {
+    "path": "sd_icon_system_action_toggle.png",
+    "name": "System Action Toggle",
+    "tags": [
+      "pixel",
+      "systemactiontoggle"
+    ]
+  },
+  {
+    "path": "sd_icon_target.png",
+    "name": "Target",
+    "tags": [
+      "pixel",
+      "target"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer.png",
+    "name": "Thermometer",
+    "tags": [
+      "pixel",
+      "thermometer"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_cold.png",
+    "name": "Thermometer Cold",
+    "tags": [
+      "pixel",
+      "thermometercold"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_hot.png",
+    "name": "Thermometer Hot",
+    "tags": [
+      "pixel",
+      "thermometerhot"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_off.png",
+    "name": "Thermometer Off",
+    "tags": [
+      "pixel",
+      "thermometeroff"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_settings.png",
+    "name": "Thermometer Settings",
+    "tags": [
+      "pixel",
+      "thermometersettings"
+    ]
+  },
+  {
+    "path": "sd_icon_toggle_i_off.png",
+    "name": "Toggle I Off",
+    "tags": [
+      "pixel",
+      "toggleioff"
+    ]
+  },
+  {
+    "path": "sd_icon_toggle_i_on.png",
+    "name": "Toggle I On",
+    "tags": [
+      "pixel",
+      "toggleion"
+    ]
+  },
+  {
+    "path": "sd_icon_toggle_off.png",
+    "name": "Toggle Off",
+    "tags": [
+      "pixel",
+      "toggleoff"
+    ]
+  },
+  {
+    "path": "sd_icon_toggle_on.png",
+    "name": "Toggle On",
+    "tags": [
+      "pixel",
+      "toggleon"
+    ]
+  },
+  {
+    "path": "sd_icon_transition.png",
+    "name": "Transition",
+    "tags": [
+      "pixel",
+      "transition"
+    ]
+  },
+  {
+    "path": "sd_icon_trash.png",
+    "name": "Trash",
+    "tags": [
+      "pixel",
+      "trash"
+    ]
+  },
+  {
+    "path": "sd_icon_upload.png",
+    "name": "Upload",
+    "tags": [
+      "pixel",
+      "upload"
+    ]
+  },
+  {
+    "path": "sd_icon_warning.png",
+    "name": "Warning",
+    "tags": [
+      "pixel",
+      "warning"
+    ]
+  },
+  {
+    "path": "sd_icon_wave.png",
+    "name": "Wave",
+    "tags": [
+      "pixel",
+      "wave"
+    ]
+  },
+  {
+    "path": "sd_icon_webcam.png",
+    "name": "Webcam",
+    "tags": [
+      "pixel",
+      "webcam"
+    ]
+  },
+  {
+    "path": "sd_icon_webcam_off.png",
+    "name": "Webcam Off",
+    "tags": [
+      "pixel",
+      "webcamoff"
+    ]
+  },
+  {
+    "path": "sd_icon_webcam_settings.png",
+    "name": "Webcam Settings",
+    "tags": [
+      "pixel",
+      "webcamsettings"
+    ]
+  },
+  {
+    "path": "sd_icon_website.png",
+    "name": "Website",
+    "tags": [
+      "pixel",
+      "website"
+    ]
+  },
+  {
+    "path": "sd_icon_wifi_off.png",
+    "name": "Wifi Off",
+    "tags": [
+      "pixel",
+      "wifioff"
+    ]
+  },
+  {
+    "path": "sd_icon_wifi_on.png",
+    "name": "Wifi On",
+    "tags": [
+      "pixel",
+      "wifion"
+    ]
+  },
+  {
+    "path": "sd_icon_window_empty.png",
+    "name": "Window Empty",
+    "tags": [
+      "pixel",
+      "windowempty"
+    ]
+  },
+  {
+    "path": "sd_icon_window_grid.png",
+    "name": "Window Grid",
+    "tags": [
+      "pixel",
+      "windowgrid"
+    ]
+  },
+  {
+    "path": "sd_icon_window_list.png",
+    "name": "Window List",
+    "tags": [
+      "pixel",
+      "windowlist"
+    ]
+  },
+  {
+    "path": "sd_icon_window_play.png",
+    "name": "Window Play",
+    "tags": [
+      "pixel",
+      "windowplay"
+    ]
+  },
+  {
+    "path": "sd_icon_window_stop.png",
+    "name": "Window Stop",
+    "tags": [
+      "pixel",
+      "windowstop"
+    ]
+  },
+  {
+    "path": "sd_icon_wrench.png",
+    "name": "Wrench",
+    "tags": [
+      "pixel",
+      "wrench"
+    ]
+  },
+  {
+    "path": "sd_icon_zoom.png",
+    "name": "Zoom",
+    "tags": [
+      "pixel",
+      "zoom"
+    ]
+  },
+  {
+    "path": "sd_icon_zoom_less.png",
+    "name": "Zoom Less",
+    "tags": [
+      "pixel",
+      "zoomless"
+    ]
+  },
+  {
+    "path": "sd_icon_zoom_list.png",
+    "name": "Zoom List",
+    "tags": [
+      "pixel",
+      "zoomlist"
+    ]
+  },
+  {
+    "path": "sd_icon_zoom_more.png",
+    "name": "Zoom More",
+    "tags": [
+      "pixel",
+      "zoommore"
+    ]
+  }
+]
