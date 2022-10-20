@@ -1,7 +1,7 @@
 # Stream Deck Pixel Art icon packs
 
 ![Application icon pack](com.nasc.pixelarticonpack.blue.sdIconPack/previews/0-preview.png)
-### 300 icons
+### Each pack contains 300 icons.
 - [Blue background](https://github.com/Nasc/Stream-Deck-Pixel-Art-icon-pack/raw/main/packs/com.nasc.pixelarticonpack.blue.streamDeckIconPack) (.streamDeckIconPack)
 - [Charcoal background](https://github.com/Nasc/Stream-Deck-Pixel-Art-icon-pack/raw/main/packs/com.nasc.pixelarticonpack.charcoal.streamDeckIconPack) (.streamDeckIconPack)
 - [Green background](https://github.com/Nasc/Stream-Deck-Pixel-Art-icon-pack/raw/main/packs/com.nasc.pixelarticonpack.green.streamDeckIconPack) (.streamDeckIconPack)
@@ -17,11 +17,11 @@
 
 ---
 ![Application icon pack](com.nasc.pixelarticonpack.applications.sdIconPack/previews/0-preview.png)
-### 81 icons
+### Contains 81 icons.
 - [Applications icon pack](https://github.com/Nasc/Stream-Deck-Pixel-Art-icon-pack/raw/main/packs/com.nasc.pixelarticonpack.applications.streamDeckIconPack) (.streamDeckIconPack)
 
 ---
 ![Application icon pack](com.nasc.pixelarticonpack.palette.sdIconPack/previews/0-preview.png)
-### 45 icons
+### Contains 45 icons.
 - [Palette icon pack](https://github.com/Nasc/Stream-Deck-Pixel-Art-icon-pack/raw/main/packs/com.nasc.pixelarticonpack.palette.streamDeckIconPack) (.streamDeckIconPack)
 
