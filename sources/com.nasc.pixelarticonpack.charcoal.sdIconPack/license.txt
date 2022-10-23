@@ -1,2 +1,2 @@
-Copyright 2021 Corsair/Elgato, Inc and other contributors
+Copyright 2021 Nasc
 Licensed under the MIT License: http://opensource.org/licenses/MIT
