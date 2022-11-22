@@ -1,4 +1,4 @@
-# Stream Deck Pixel Art icon packs
+# Stream Deck Pixel Art icon packs v1.1.0
 
 These are 14 free icon packs for the Elgato Stream Deck, based on Pixel Art style.<br /><br />
 **3700+ pixel art icons** (PNG, 288×288px).
@@ -8,7 +8,7 @@ These are 14 free icon packs for the Elgato Stream Deck, based on Pixel Art styl
 
 ---
 ![Application icon pack](assets/stream_deck_pixel_art_icon_pack_005.png)
-### Generic icons pack contains 300 icons per pack.
+### Generic icons pack contains 336 icons per pack.
 - [Blue background](https://github.com/Nasc/Stream-Deck-Pixel-Art-icon-pack/raw/main/packs/com.nasc.pixelarticonpack.blue.streamDeckIconPack) (.streamDeckIconPack)
 - [Charcoal background](https://github.com/Nasc/Stream-Deck-Pixel-Art-icon-pack/raw/main/packs/com.nasc.pixelarticonpack.charcoal.streamDeckIconPack) (.streamDeckIconPack)
 - [Green background](https://github.com/Nasc/Stream-Deck-Pixel-Art-icon-pack/raw/main/packs/com.nasc.pixelarticonpack.green.streamDeckIconPack) (.streamDeckIconPack)
