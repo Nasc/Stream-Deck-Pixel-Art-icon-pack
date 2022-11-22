@@ -16,6 +16,14 @@
     ]
   },
   {
+    "path": "sd_icon_alert_circle.png",
+    "name": "Alert Circle",
+    "tags": [
+      "pixel",
+      "alertcircle"
+    ]
+  },
+  {
     "path": "sd_icon_alert_off.png",
     "name": "Alert Off",
     "tags": [
@@ -285,6 +293,22 @@
     "tags": [
       "pixel",
       "camera"
+    ]
+  },
+  {
+    "path": "sd_icon_camera_frame.png",
+    "name": "Camera Frame",
+    "tags": [
+      "pixel",
+      "cameraframe"
+    ]
+  },
+  {
+    "path": "sd_icon_camera_iso.png",
+    "name": "Camera Iso",
+    "tags": [
+      "pixel",
+      "cameraiso"
     ]
   },
   {
@@ -565,6 +589,30 @@
     "tags": [
       "pixel",
       "cubeoutline"
+    ]
+  },
+  {
+    "path": "sd_icon_deck_profile_next.png",
+    "name": "Deck Profile Next",
+    "tags": [
+      "pixel",
+      "deckprofilenext"
+    ]
+  },
+  {
+    "path": "sd_icon_deck_profile_previous.png",
+    "name": "Deck Profile Previous",
+    "tags": [
+      "pixel",
+      "deckprofileprevious"
+    ]
+  },
+  {
+    "path": "sd_icon_deck_profile_swip.png",
+    "name": "Deck Profile Swip",
+    "tags": [
+      "pixel",
+      "deckprofileswip"
     ]
   },
   {
@@ -976,6 +1024,30 @@
     ]
   },
   {
+    "path": "sd_icon_key_light_minus.png",
+    "name": "Key Light Minus",
+    "tags": [
+      "pixel",
+      "keylightminus"
+    ]
+  },
+  {
+    "path": "sd_icon_key_light_off.png",
+    "name": "Key Light Off",
+    "tags": [
+      "pixel",
+      "keylightoff"
+    ]
+  },
+  {
+    "path": "sd_icon_key_light_plus.png",
+    "name": "Key Light Plus",
+    "tags": [
+      "pixel",
+      "keylightplus"
+    ]
+  },
+  {
     "path": "sd_icon_key_light_white.png",
     "name": "Key Light White",
     "tags": [
@@ -989,6 +1061,62 @@
     "tags": [
       "pixel",
       "keylightyellow"
+    ]
+  },
+  {
+    "path": "sd_icon_knob_1.png",
+    "name": "Knob 1",
+    "tags": [
+      "pixel",
+      "knob1"
+    ]
+  },
+  {
+    "path": "sd_icon_knob_2.png",
+    "name": "Knob 2",
+    "tags": [
+      "pixel",
+      "knob2"
+    ]
+  },
+  {
+    "path": "sd_icon_knob_3.png",
+    "name": "Knob 3",
+    "tags": [
+      "pixel",
+      "knob3"
+    ]
+  },
+  {
+    "path": "sd_icon_knob_4.png",
+    "name": "Knob 4",
+    "tags": [
+      "pixel",
+      "knob4"
+    ]
+  },
+  {
+    "path": "sd_icon_knob_5.png",
+    "name": "Knob 5",
+    "tags": [
+      "pixel",
+      "knob5"
+    ]
+  },
+  {
+    "path": "sd_icon_knob_6.png",
+    "name": "Knob 6",
+    "tags": [
+      "pixel",
+      "knob6"
+    ]
+  },
+  {
+    "path": "sd_icon_knob_7.png",
+    "name": "Knob 7",
+    "tags": [
+      "pixel",
+      "knob7"
     ]
   },
   {
@@ -1048,6 +1176,14 @@
     ]
   },
   {
+    "path": "sd_icon_light_bubble_group.png",
+    "name": "Light Bubble Group",
+    "tags": [
+      "pixel",
+      "lightbubblegroup"
+    ]
+  },
+  {
     "path": "sd_icon_light_bubble_multicolors.png",
     "name": "Light Bubble Multicolors",
     "tags": [
@@ -1077,6 +1213,14 @@
     "tags": [
       "pixel",
       "lightbubblesettings"
+    ]
+  },
+  {
+    "path": "sd_icon_light_bubble_turn_off.png",
+    "name": "Light Bubble Turn Off",
+    "tags": [
+      "pixel",
+      "lightbubbleturnoff"
     ]
   },
   {
@@ -1304,6 +1448,14 @@
     ]
   },
   {
+    "path": "sd_icon_microphone_minus.png",
+    "name": "Microphone Minus",
+    "tags": [
+      "pixel",
+      "microphoneminus"
+    ]
+  },
+  {
     "path": "sd_icon_microphone_mute.png",
     "name": "Microphone Mute",
     "tags": [
@@ -1317,6 +1469,14 @@
     "tags": [
       "pixel",
       "microphoneon"
+    ]
+  },
+  {
+    "path": "sd_icon_microphone_plus.png",
+    "name": "Microphone Plus",
+    "tags": [
+      "pixel",
+      "microphoneplus"
     ]
   },
   {
@@ -1357,6 +1517,14 @@
     "tags": [
       "pixel",
       "moon"
+    ]
+  },
+  {
+    "path": "sd_icon_moon_sleep.png",
+    "name": "Moon Sleep",
+    "tags": [
+      "pixel",
+      "moonsleep"
     ]
   },
   {
@@ -1485,6 +1653,14 @@
     "tags": [
       "pixel",
       "pendraw"
+    ]
+  },
+  {
+    "path": "sd_icon_piano.png",
+    "name": "Piano",
+    "tags": [
+      "pixel",
+      "piano"
     ]
   },
   {
@@ -1656,6 +1832,22 @@
     ]
   },
   {
+    "path": "sd_icon_replay_once.png",
+    "name": "Replay Once",
+    "tags": [
+      "pixel",
+      "replayonce"
+    ]
+  },
+  {
+    "path": "sd_icon_ring_rgb.png",
+    "name": "Ring Rgb",
+    "tags": [
+      "pixel",
+      "ringrgb"
+    ]
+  },
+  {
     "path": "sd_icon_rocket.png",
     "name": "Rocket",
     "tags": [
@@ -1784,6 +1976,30 @@
     ]
   },
   {
+    "path": "sd_icon_screen_msg_1.png",
+    "name": "Screen Msg 1",
+    "tags": [
+      "pixel",
+      "screenmsg1"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_2.png",
+    "name": "Screen Msg 2",
+    "tags": [
+      "pixel",
+      "screenmsg2"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_3.png",
+    "name": "Screen Msg 3",
+    "tags": [
+      "pixel",
+      "screenmsg3"
+    ]
+  },
+  {
     "path": "sd_icon_screen_msg_brb.png",
     "name": "Screen Msg Brb",
     "tags": [
@@ -1845,6 +2061,14 @@
     "tags": [
       "pixel",
       "screenmsgstart"
+    ]
+  },
+  {
+    "path": "sd_icon_screen_msg_vfx.png",
+    "name": "Screen Msg Vfx",
+    "tags": [
+      "pixel",
+      "screenmsgvfx"
     ]
   },
   {
@@ -2080,6 +2304,14 @@
     ]
   },
   {
+    "path": "sd_icon_speaker_headphone.png",
+    "name": "Speaker Headphone",
+    "tags": [
+      "pixel",
+      "speakerheadphone"
+    ]
+  },
+  {
     "path": "sd_icon_speaker_settings.png",
     "name": "Speaker Settings",
     "tags": [
@@ -2144,6 +2376,14 @@
     ]
   },
   {
+    "path": "sd_icon_system_action_random.png",
+    "name": "System Action Random",
+    "tags": [
+      "pixel",
+      "systemactionrandom"
+    ]
+  },
+  {
     "path": "sd_icon_system_action_toggle.png",
     "name": "System Action Toggle",
     "tags": [
@@ -2165,6 +2405,46 @@
     "tags": [
       "pixel",
       "thermometer"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_0.png",
+    "name": "Thermometer 0",
+    "tags": [
+      "pixel",
+      "thermometer0"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_100.png",
+    "name": "Thermometer 100",
+    "tags": [
+      "pixel",
+      "thermometer100"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_25.png",
+    "name": "Thermometer 25",
+    "tags": [
+      "pixel",
+      "thermometer25"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_50.png",
+    "name": "Thermometer 50",
+    "tags": [
+      "pixel",
+      "thermometer50"
+    ]
+  },
+  {
+    "path": "sd_icon_thermometer_75.png",
+    "name": "Thermometer 75",
+    "tags": [
+      "pixel",
+      "thermometer75"
     ]
   },
   {
@@ -2301,6 +2581,14 @@
     "tags": [
       "pixel",
       "website"
+    ]
+  },
+  {
+    "path": "sd_icon_wheel_rgb.png",
+    "name": "Wheel Rgb",
+    "tags": [
+      "pixel",
+      "wheelrgb"
     ]
   },
   {
