@@ -43,7 +43,15 @@ On Windows it's probably `C:\Users\you\AppData\Roaming\Elgato\StreamDeck\IconPac
 
 ## Preview
 <img src="assets/stream_deck_pixel_art_icon_pack_001.png" width="320"/> <img src="assets/stream_deck_pixel_art_icon_pack_002.png" width="320"/><br />
-<img src="assets/stream_deck_pixel_art_icon_pack_003.png" width="320"/> <img src="assets/stream_deck_pixel_art_icon_pack_004.png" width="320"/>
+<img src="assets/stream_deck_pixel_art_icon_pack_003.png" width="320"/> <img src="assets/stream_deck_pixel_art_icon_pack_004.png" width="320"/><br /><br />
+
+<img src="sources/com.nasc.pixelarticonpack.applications.sdIconPack/previews/0-preview.png" width="320"/><img src="sources/com.nasc.pixelarticonpack.palette.sdIconPack/previews/0-preview.png" width="320"/><br />
+<img src="sources/com.nasc.pixelarticonpack.blue.sdIconPack/previews/0-preview.png" width="320"/><img src="sources/com.nasc.pixelarticonpack.charcoal.sdIconPack/previews/0-preview.png" width="320"/><br />
+<img src="sources/com.nasc.pixelarticonpack.green.sdIconPack/previews/0-preview.png" width="320"/><img src="sources/com.nasc.pixelarticonpack.navyblue.sdIconPack/previews/0-preview.png" width="320"/><br />
+<img src="sources/com.nasc.pixelarticonpack.olive.sdIconPack/previews/0-preview.png" width="320"/><img src="sources/com.nasc.pixelarticonpack.orange.sdIconPack/previews/0-preview.png" width="320"/><br />
+<img src="sources/com.nasc.pixelarticonpack.pink.sdIconPack/previews/0-preview.png" width="320"/><img src="sources/com.nasc.pixelarticonpack.purple.sdIconPack/previews/0-preview.png" width="320"/><br />
+<img src="sources/com.nasc.pixelarticonpack.red.sdIconPack/previews/0-preview.png" width="320"/><img src="sources/com.nasc.pixelarticonpack.teal.sdIconPack/previews/0-preview.png" width="320"/><br />
+<img src="sources/com.nasc.pixelarticonpack.terracotta.sdIconPack/previews/0-preview.png" width="320"/><img src="sources/com.nasc.pixelarticonpack.turquoise.sdIconPack/previews/0-preview.png" width="320"/><br />
 
 ## Authors & License
 
